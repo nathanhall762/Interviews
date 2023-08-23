@@ -1,4 +1,5 @@
 # Understanding OAuth2.0: A Quick Guide
+![OAuth2 0](https://github.com/nathanhall762/Interviews/assets/37547658/04eaa866-e7d0-4693-b0cd-38a5bbf2ca27)
 
 ## Introduction
 
@@ -136,3 +137,7 @@ Meet OIDC (OpenID Connect). Think of it as OAuth2.0's cousin, designed specifica
 ## Conclusion
 
 OAuth2.0 is the bridge between applications and services, ensuring data is accessed securely and with user consent. As digital trust continues to be crucial, understanding and implementing OAuth2.0 correctly remains pivotal.
+
+### Resources
+```https://oauth.net/2/```
+```https://auth0.com/intro-to-iam/what-is-oauth-2```
